@@ -14,6 +14,7 @@ public class Java8Date {
     public static void main(String[] args) {
         Java8Date java8Date = new Java8Date();
         java8Date.testLocalDateTime();
+        System.out.println("20200308今天是我的生日");
     }
     public void testLocalDateTime(){
         //获取当前的日期时间
